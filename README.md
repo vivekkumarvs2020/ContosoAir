@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/vivekkumarvs2020/vivekkumarvs2020/_apis/build/status/vivekkumarvs2020.ContosoAir?branchName=master)](https://dev.azure.com/vivekkumarvs2020/vivekkumarvs2020/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
